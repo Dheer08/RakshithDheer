@@ -2,7 +2,7 @@
 
 Personal portfolio and CV site for Rakshith Dheer Reddy Kunduru, Data & AI engineer based in Dublin.
 
-**Live site:** https://dheer08.github.io/MyWebsite/
+**Live site:** https://dheer08.github.io/RakshithDheer/
 
 ## What's here
 
